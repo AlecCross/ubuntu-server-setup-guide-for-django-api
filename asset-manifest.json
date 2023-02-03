@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/ubuntu-server-setup-guide-for-django-api/static/css/main.31d6cfe0.css",
-    "main.js": "/ubuntu-server-setup-guide-for-django-api/static/js/main.3f9e652e.js",
+    "main.js": "/ubuntu-server-setup-guide-for-django-api/static/js/main.ca9fc551.js",
     "index.html": "/ubuntu-server-setup-guide-for-django-api/index.html",
-    "main.3f9e652e.js.map": "/ubuntu-server-setup-guide-for-django-api/static/js/main.3f9e652e.js.map"
+    "main.ca9fc551.js.map": "/ubuntu-server-setup-guide-for-django-api/static/js/main.ca9fc551.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.3f9e652e.js"
+    "static/js/main.ca9fc551.js"
   ]
 }
